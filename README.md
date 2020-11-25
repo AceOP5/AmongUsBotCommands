@@ -1,7 +1,7 @@
 # AmongUsMuteBot
 Commands:
 
-Invite: 
+Invite:   https://discord.com/api/oauth2/authorize?client_id=780943728281780225&permissions=8&scope=bot
 
 
 ## au!setup
